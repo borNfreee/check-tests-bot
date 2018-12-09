@@ -11,3 +11,9 @@ assignees: borNfreee
 | PHP version | x.y.z (`php -v`)
 | Platform    | e.g. Ubuntu/Windows/MacOS
 | Github Repo | -
+
+---
+title: 'Bug report'
+labels: bug
+assignees: borNfreee
+---
